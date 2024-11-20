@@ -1,7 +1,13 @@
 body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-header {
-  background: url('https://via.placeholder.com/1500x500') no-repeat center/cover;
+
+.hero-section {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+}
+
+h1, h3 {
+    color: #fff;
 }
